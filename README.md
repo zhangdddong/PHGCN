@@ -1,6 +1,6 @@
 # Pair-Wise or High-Order? A Self-Adaptive Graph Framework for Knowledge Graph Embedding
 
-This repository provides the official PyTorch implementation of the research paper **Pair-Wise or High-Order? A Self-Adaptive Graph Framework for Knowledge Graph Embedding**. If the paper is officially published, we will release all the experimental codes. It will update soon. Thanks for your attention.
+This repository provides the official PyTorch implementation of the research paper **Pair-Wise or High-Order? A Self-Adaptive Graph Framework for Knowledge Graph Embedding**. 
 
 ### Requirements
 
